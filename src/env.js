@@ -1,0 +1,3 @@
+// Auto-generated environment variables
+export const VITE_SUPABASE_URL = "https://pkbjydqjamtmoawjrxvw.supabase.co";
+export const VITE_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBrYmp5ZHFqYW10bW9hd2pyeHZ3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzU4Mjk4ODQsImV4cCI6MjA5MTQwNTg4NH0.MQCKNMwIOwQZ1UXIX-10ZJOq5nrjaM_Tv3oDteSA2YA";
